@@ -1,0 +1,50 @@
+#ccode_form{
+    margin-top: 10px;
+    margin-bottom:20px;
+}
+
+.wide td{
+	width:220px;
+	font-size:15px;
+	font-weight:600;
+	padding-bottom: 10px;
+}
+
+.title a{
+	text-decoration: none;
+	color:#ffba00;
+}
+
+.title a:hover{
+	text-decoration: underline;
+}
+
+.title{
+	background-color: white;
+	border-left:5px solid #0074a2;
+	height:30px;
+	width:90%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top:13px;
+	padding-left: 10px;
+	font-size:17px;
+	font-weight: 700;
+	color:#0074a2;
+
+}
+
+.title_tag{
+	background-color: white;
+	border-left:5px solid #0074a2;
+	height:30px;
+	width:90%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top:10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	font-size:17px;
+	font-weight: 700;
+	color:#0074a2;
+}
